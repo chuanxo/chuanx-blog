@@ -29,6 +29,6 @@ ShowReadingTime: false
 欢迎通过以下方式联系我：
 
 - [GitHub](https://github.com/chuanxo)
-- 发送邮件到：chuanx@example.com
+- 发送邮件到：chuanshi0722@gmail.com
 
 也可以在任何文章下方留言！
