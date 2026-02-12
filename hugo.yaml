@@ -17,10 +17,10 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-# 启用 Google Analytics 4（需要替换实际的 GA4 ID）
+# 启用 Google Analytics 4
 services:
   googleAnalytics:
-    id: G-XXXXXXXXXX
+    id: G-5ERG9P8QJ5
 
 # 启用搜索功能（需要 JSON 输出）
 outputs:
