@@ -101,6 +101,10 @@ menu:
       name: 文章
       url: /posts/
       weight: 20
+    - identifier: gallery
+      name: 图册
+      url: /gallery/
+      weight: 25
     - identifier: archives
       name: 归档
       url: /archives/

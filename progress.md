@@ -145,13 +145,17 @@
   - 删除测试文件 test-post.md
   - 提交所有更改到 git
   - 推送到 GitHub ✅
-  - 等待配置 GitHub Pages 设置
+  - 配置 Giscus 评论系统（用户提供了 repo-id 和 category-id）
+  - 安全检查：发现 .claude/settings.json 包含 API 密钥
+  - 将 .claude/ 添加到 .gitignore
+  - 从版本控制中移除敏感文件
+  - 再次提交并推送 ✅
 - 计划操作：
   - 配置 GitHub Pages 设置（启用 GitHub Actions）
-  - 启用 GitHub Discussions
-  - 配置 Giscus 集成
   - 后续：设置 Google Analytics
 - 创建/修改的文件：
+  - layouts/partials/comments.html（更新 Giscus ID）
+  - .gitignore（添加 .claude/）
 
 ## 下一步行动
 1. 删除 test-post.md 测试文件

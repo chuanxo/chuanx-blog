@@ -44,11 +44,11 @@
 - **状态：** ✓ 已完成
 
 ### 阶段 6：GitHub 配置与部署
-- [ ] 提交所有更改
-- [ ] 推送到 GitHub
+- [x] 提交所有更改
+- [x] 推送到 GitHub
 - [ ] 配置 GitHub Pages 设置
-- [ ] 启用 GitHub Discussions
-- [ ] 配置 Giscus 集成
+- [x] 启用 GitHub Discussions
+- [x] 配置 Giscus 集成
 - [ ] 设置 Google Analytics
 - **状态：** 进行中
 
